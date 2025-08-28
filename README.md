@@ -7,7 +7,7 @@ This repository contains a complete workflow for building and evaluating intrusi
 > **Highlights from the latest runs**
 >
 > - **Binary classification**: Recurrent models led the leaderboard, with **GRU reaching perfect scores (Accuracy/Precision/Recall/ROC‑AUC ≈ 1.000)** on the test split used in the notebook.
-> - **Multiclass classification**: **LSTM achieved ~86.6% accuracy** and the best F1 among tested models on the same split.
+> - **Multiclass classification**: **LSTM achieved =86.6% accuracy** and the best F1 among tested models on the same split.
 >
 > These figures depend on the random split, preprocessing, and exact hyperparameters in the notebook; see “Reproducibility” below.
 
@@ -194,3 +194,4 @@ If you use this work, please cite the dataset and any papers/tools you rely on. 
 ## License
 
 This project is for academic use.
+
