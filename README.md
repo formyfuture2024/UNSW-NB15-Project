@@ -193,4 +193,4 @@ If you use this work, please cite the dataset and any papers/tools you rely on. 
 
 ## License
 
-This project is for academic use. Add a lice
+This project is for academic use.
